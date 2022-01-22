@@ -1,0 +1,11 @@
+.form__input{
+  margin-block: 0;
+  width: 100%;
+  border-bottom: 1px solid grey;
+  margin-bottom: 20px;
+  padding: 10px 0;
+}
+
+.form__input:last-of-type {
+  margin-bottom: 0;
+}
