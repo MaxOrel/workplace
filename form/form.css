@@ -1,0 +1,9 @@
+.form {
+  font-size: 14px;
+  line-height: 100%;
+  border: none;
+  background-color: transparent;
+  outline: none;
+  transition: 0.3s;
+  color: #767676;
+}

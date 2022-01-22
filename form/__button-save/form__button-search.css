@@ -1,0 +1,9 @@
+.form__button-search {
+  width: 100%;
+  font-size: 18px;
+  line-height: 22px;
+  height: 50px;
+  color: #fff;
+  margin-top: 48px;
+  background: #000000;
+}
