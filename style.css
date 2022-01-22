@@ -1,3 +1,9 @@
+@import url('./blocks/card/card.css');
+@import url('./blocks/card-list/card-list.css');
+@import url('./blocks/card/__image/card__image.css');
+@import url('./blocks/card/__autor/card__autor.css');
+@import url('./blocks/card/__title/card__title.css');
+
 body{
     margin: 0;
 }
